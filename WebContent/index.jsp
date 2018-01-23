@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<% System.out.println("Hello World...!!!! "); %>
+	Welcome to app
 </body>
 </html>
